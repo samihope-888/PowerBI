@@ -27,3 +27,5 @@ Task 4: Focused on high-level report design and storytelling with data.
 
 Specific Insights: If your sales data showed a specific trend (e.g., "Sales increased by 20% in Q3"), add a "Key Findings" section to show off your analytical thinking!
 Would you like me to help you write a specific "Key Findings" section based on the data you analyzed in those labs?
+
+08-Design a Report in Power BI Desktop.pbix 
