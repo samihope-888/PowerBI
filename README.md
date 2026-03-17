@@ -25,8 +25,6 @@ Task 2: Mastered data blending by combining local files with live OData web feed
 Task 3: Executed advanced data loading and lab-based troubleshooting.
 Task 4: Focused on high-level report design and storytelling with data.
 
-Specific Insights: If your sales data showed a specific trend (e.g., "Sales increased by 20% in Q3"), add a "Key Findings" section to show off your analytical thinking!
-Would you like me to help you write a specific "Key Findings" section based on the data you analyzed in those labs?
 
 Examples of work produced with PowerBI:
 <img width="755" height="394" alt="image" src="https://github.com/user-attachments/assets/e480c846-dd5e-4be1-92d4-14c668230c1b" />
